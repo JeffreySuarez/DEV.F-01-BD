@@ -1,0 +1,23 @@
+.content-main {
+  width: 90%;
+}
+
+.content-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-ER {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-R {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
